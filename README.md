@@ -1,8 +1,6 @@
 # Responsive Portfolio Website 
-## [Watch it on youtube](https://youtu.be/27JtRAI3QO8)
-### Responsive Portfolio Website Alexa
+## Responsive Portfolio Website
 Responsive Portfolio Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Qualification, Services, Portfolio, Project in mind, Testimonial, Contact and Footer.
-Don't forget to join the channel for more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ![Resume cv](https://media.discordapp.net/attachments/609614458884718594/901320778195304468/preview-portfolio.png?width=1202&height=676)
 
@@ -15,3 +13,11 @@ The dark theme mode can be changed, just click on the moon icon and the entire l
 ## My experience in website development:
 
 When I started, I glimpsed the end of the site, what the responsive mode would be like, what her style would be, what images to use, among other things. And as the project developed, I realized it would be better than I could have imagined. I am very happy with the result and of course I will take this experience to the next projects.
+
+## Technologies:
+
+* <img src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_html5-256.png"> HTML5
+
+* <img src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_css3-256.png"> CSS3
+
+* <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png"> JavaScript
