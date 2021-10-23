@@ -16,8 +16,8 @@ When I started, I glimpsed the end of the site, what the responsive mode would b
 
 ## Technologies:
 
-* <img src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_html5-256.png"> HTML5
+ <img src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_html5-256.png" with="30px" height="30px" align="center"> HTML5
 
-* <img src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_css3-256.png"> CSS3
+ <img src="https://cdn1.iconfinder.com/data/icons/social-icon-1-1/512/social_style_1_css3-256.png" with="30px" height="30px" align="center"> CSS3
 
-* <img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png"> JavaScript
+<img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" with="30px" height="30px" align="center"> JavaScript
