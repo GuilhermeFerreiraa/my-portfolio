@@ -858,30 +858,30 @@
                         </div>
                     </div>
                 </div>
-                <form action="" class="contact__form grid">
+                <form name="contact" class="contact__form grid" method="POST" data-netlify="true" onSubmit="Submit">
                     <div class="contact__inputs grid">
                         <div class="contact__content">
-                            <label for="" class="contact__label">Name</label>
-                            <input required type="text" class="contact__input">
+                            <label for="" class="contact__label" type="text" name="name">Name</label>
+                            <input required class="contact__input">
                         </div>
                         <div class="contact__content">
                             <label for="" class="contact__label">Email</label>
-                            <input required type="email" class="contact__input">
+                            <input required type="email" name="email"class="contact__input">
                         </div>
                     </div>
                         <div class="contact__content">
-                            <label for="" class="contact__label">Project</label>
-                            <input type="text" class="contact__input">
+                            <label class="contact__label">Project</label>
+                            <input type="text" required  name="project"  class="contact__input">
                         </div>
                         <div class="contact__content">
                             <label for="" class="contact__label">Message</label>
-                            <textarea name="" id="" cols="0" rows="7" class="contact__input"></textarea>
+                            <textarea name="message" cols="0" required rows="7" class="contact__input"></textarea>
                         </div>
 
                         <div>
-                            <a href="#" class="button button--flex">
+                            <button type="submit" class="button button--flex">
                                 Send Message&nbsp;<i class="uil uil-message button__icon.contact__"></i>
-                            </a>
+                        </button>
                         </div>
                 </form>
             </div>

@@ -387,6 +387,8 @@ img {
 .button--flex {
   display: inline-flex;
   align-items: center;
+  border: none;
+  cursor: pointer;
 }
 
 .button--small {
