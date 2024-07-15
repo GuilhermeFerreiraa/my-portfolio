@@ -239,6 +239,13 @@ img {
   font-weight: var(--font-medium);
 }
 
+.nav__link_ref {
+  font-size: var(--small-font-size);
+  color: var(--first-color);
+  text-decoration: underline;
+  font-weight: var(--font-medium);
+}
+
 .nav__link:hover {
   color: var(--first-color);
 }
@@ -512,12 +519,16 @@ img {
 }
 /* ========= FRONT END ========= */
 .skills__html {
-  width: 85%;
+  width: 95%;
 }
 .skills__css {
-  width: 85%;
+  width: 95%;
 }
-.skills__scss {
+
+.skills__tailwindcss {
+  width: 95%;
+}
+.skills__nextjs {
   width: 75%;
 }
 .skills__js {
@@ -526,19 +537,29 @@ img {
 .skills__react {
   width: 85%;
 }
+
+.skills__test {
+  width: 70%;
+}
+
 .skills__typescript {
-  width: 75%;
+  width: 80%;
 }
 
 /* ========= BACK END ========= */
-.skills__java {
-  width: 70%;
+.skills__nodejs {
+  width: 75%;
 }
+
+.skills__nestjs {
+  width: 40%;
+}
+
 .skills__node {
   width: 80%;
 }
 .skills__sqlserver {
-  width: 70%;
+  width: 80%;
 }
 .skills__sqlite {
   width: 55%;
@@ -546,29 +567,56 @@ img {
 .skills__mysql {
   width: 65%;
 }
-.skills__firebase {
-  width: 30%;
-}
-
-/* ========= Design ========= */
-.skills__photoshop {
-  width: 70%;
-}
-.skills__aftereffects {
-  width: 75%;
-}
-.skills__illustrator {
+.skills__dynamo {
   width: 65%;
 }
 
-.skills__coreldraw {
-  width: 35%;
+/* ========= mobile ========= */
+
+.skills__reactnative {
+  width: 80%;
 }
+
+.skills__expogo {
+  width: 80%;
+}
+
+.skills__nativebase {
+  width: 80%;
+}
+
+.skills__nativewind {
+  width: 80%;
+}
+
 .skills__figma {
   width: 55%;
 }
-.skills__indesign {
-  width: 15%;
+
+/* ========= devops ========= */
+
+.skills__github {
+  width: 85%;
+}
+
+.skills__bitbucket {
+  width: 75%;
+}
+
+.skills__aws_services {
+  width: 75%;
+}
+
+.skills__appstore {
+  width: 75%;
+}
+
+.skills__docker {
+  width: 60%;
+}
+
+.skills__googleplay {
+  width: 80%;
 }
 
 /* ========= Design ========= */
