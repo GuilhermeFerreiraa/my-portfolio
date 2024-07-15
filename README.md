@@ -1,15 +1,11 @@
 # Responsive Portfolio Website 
 
-Access page: https://my-front-portfolio.netlify.app
+Access page: https://guilhermeferreira.dev
 
 Responsive Portfolio Website Using Html, Css and JavaScript, With a beautiful user interface. It contains a Header, Home, About, Skills, Qualification, Services, Portfolio, Project in mind, Testimonial, Contact and Footer.
 
-![Resume cv](https://media.discordapp.net/attachments/609614458884718594/901320778195304468/preview-portfolio.png?width=1202&height=676)
-
 ## Dark Mode
 The dark theme mode can be changed, just click on the moon icon and the entire landing page will be dark, after clicking on the sun icon, the site goes back to the default theme.
-
-<img src="https://media.discordapp.net/attachments/609614458884718594/901345085692727296/preview-portfolio-dark-theme.png?width=1202&height=676">
 
 
 ## My experience in website development:
